@@ -4,7 +4,7 @@
 	
 	if (isset($_POST['email']))
 	{
-		//Udana walidacja? Załóżmy, że tak!
+		//Udana walidacja? Załóżmy, że tak! 2222
 		$wszystko_OK=true;
 		
 		//Sprawdź poprawność nickname'a
